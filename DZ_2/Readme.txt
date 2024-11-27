@@ -8,4 +8,4 @@ sudo apt-get update
 sudo apt-get install graphviz
 
 Запуск скрипта:
-python3 visualize_git_graph.py
+python3 git_graph_visualizer.py
