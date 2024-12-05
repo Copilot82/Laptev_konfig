@@ -20,4 +20,4 @@ cd ..
 zip -r vfs.zip vfs_root
 
 Запуск программы:
-python shell_emulator.py --computer-name MyComputer --vfs-path vfs.zip
+python3 shell_emulator.py --computer-name MyComputer --vfs-path vfs.zip
