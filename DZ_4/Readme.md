@@ -1,13 +1,16 @@
-python assembler.py vector_reverse.asm vector_reverse.bin vector_reverse_log.csv
+# ЗАПУСК 
+```python assembler.py vector_reverse.asm vector_reverse.bin vector_reverse_log.csv```
 
-python interpreter.py vector_reverse.bin vector_result.csv 400 407
+```python interpreter.py vector_reverse.bin vector_result.csv 400 407```
 
-python assembler.py program.asm program.bin program_log.csv
+**Запуск тестовой программы**
 
-python interpreter.py program.bin result.csv 0 100
+```python assembler.py program.asm program.bin program_log.csv```
+
+```python interpreter.py program.bin result.csv 0 100```
 
 
-ПРОВЕРКА
+# ПРОВЕРКА
 
 
 
